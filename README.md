@@ -1,2 +1,2 @@
 # AWS-Deep-racer
-AWS deep racer competition rank 29/51
+ANZ-University-DeepRacer-League-2022 rank 29/51
